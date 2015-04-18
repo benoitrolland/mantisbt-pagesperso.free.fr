@@ -1,3 +1,14 @@
+# mantisbt-pagesperso.free.fr
+Mantis Bug Tracker (MantisBT)
+
+The pagesperso.free.fr free hosting service is not allways up to date regarding php or mysql versions
+and has numerous restrictions that need be overcome,
+before a php solution might be used.
+#
+This fork is aimed to maintain versions of mantisbt, 
+compatible with the pagesperso.free.fr free hosting service.
+#
+
 Mantis Bug Tracker (MantisBT)
 =============================
 [![Build Status](https://travis-ci.org/mantisbt/mantisbt.svg?branch=master)](https://travis-ci.org/mantisbt/mantisbt)
