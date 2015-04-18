@@ -1,5 +1,7 @@
-# mantisbt-pagesperso.free.fr
+# mantisbt-release-1.2.19.pagesperso.free.fr
 Mantis Bug Tracker (MantisBT)
+
+This release is a pageperso.free.fr compatible version of mantisbt-release-1.2.19
 
 The pagesperso.free.fr free hosting service is not allways up to date regarding php or mysql versions
 and has numerous restrictions that need be overcome,
@@ -7,6 +9,8 @@ before a php solution might be used.
 
 This fork is aimed to maintain versions of mantisbt, 
 compatible with the pagesperso.free.fr free hosting service.
+
+
 
 -------------------------------------------------------------------------------
 MantisBT - a php based bugtracking system
