@@ -8,6 +8,7 @@ before a php solution might be used.
 This fork is aimed to maintain versions of mantisbt, 
 compatible with the pagesperso.free.fr free hosting service.
 #
+Last working version is release-1.2.19.pagesperso.free.fr (https://github.com/benoitrolland/mantisbt-pagesperso.free.fr/tree/release-1.2.19.pagesperso.free.fr)
 
 Mantis Bug Tracker (MantisBT)
 =============================
