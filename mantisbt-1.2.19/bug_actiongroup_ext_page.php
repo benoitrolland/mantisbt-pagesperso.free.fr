@@ -22,7 +22,7 @@
 	 */
 
 	require_once( 'core.php' );
-	require_once( 'bug_group_action_api.php' );
+	require_once( 'core/bug_group_action_api.php' );
 
 	$t_external_action = utf8_strtolower( utf8_substr( $f_action, utf8_strlen( $t_external_action_prefix ) ) );
 	$t_form_name = 'bug_actiongroup_' . $t_external_action;
