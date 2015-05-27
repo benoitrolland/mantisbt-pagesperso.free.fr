@@ -27,9 +27,9 @@
 	  */
 	require_once( 'core.php' );
 
-	require_once( 'cure/bug_api.php' );
-	require_once( 'cure/bugnote_api.php' );
-	require_once( 'cure/current_user_api.php' );
+	require_once( 'core/bug_api.php' );
+	require_once( 'core/bugnote_api.php' );
+	require_once( 'core/current_user_api.php' );
 
 	form_security_validate( 'bugnote_update' );
 
