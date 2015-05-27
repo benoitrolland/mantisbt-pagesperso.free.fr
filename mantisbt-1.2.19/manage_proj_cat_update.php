@@ -25,7 +25,7 @@
 	  */
 	require_once( 'core.php' );
 
-	require_once( 'category_api.php' );
+	require_once( 'core/category_api.php' );
 
 	form_security_validate( 'manage_proj_cat_update' );
 

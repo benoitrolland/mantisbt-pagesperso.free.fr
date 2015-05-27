@@ -24,9 +24,9 @@
   */
 require_once( 'core.php' );
 
-require_once ( 'html_api.php' );
-require_once ( 'form_api.php' );
-require_once( 'tag_api.php' );
+require_once ( 'core/html_api.php' );
+require_once ( 'core/form_api.php' );
+require_once( 'core/tag_api.php' );
 
 form_security_validate( 'tag_create' );
 

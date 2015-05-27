@@ -27,7 +27,7 @@
 	/**
 	 * requires tag_api
 	 */
-	require_once( 'tag_api.php' );
+	require_once( 'core/tag_api.php' );
 
 	form_security_validate( 'tag_update' );
 

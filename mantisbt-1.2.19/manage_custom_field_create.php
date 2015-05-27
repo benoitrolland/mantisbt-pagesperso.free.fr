@@ -25,7 +25,7 @@
 	  */
 	require_once( 'core.php' );
 
-	require_once( 'custom_field_api.php' );
+	require_once( 'core/custom_field_api.php' );
 
 	form_security_validate('manage_custom_field_create');
 

@@ -27,11 +27,11 @@
 	/**
 	 * requires ajax_api
 	 */
-	require_once( 'ajax_api.php' );
+	require_once( 'core/ajax_api.php' );
 	/**
 	 * requires tag_api
 	 */
-	require_once( 'tag_api.php' );
+	require_once( 'core/tag_api.php' );
 
 	compress_enable();
 

@@ -24,7 +24,7 @@
 	/**
 	 * Requires Tag API
 	 */
-	require_once( 'tag_api.php' );
+	require_once( 'core/tag_api.php' );
 
 	/**
 	 * Prints the title for the custom action page.

@@ -27,7 +27,7 @@
 	/**
 	 * requires tag_api
 	 */
-	require_once( 'tag_api.php' );
+	require_once( 'core/tag_api.php' );
 
 	access_ensure_global_level( config_get( 'tag_view_threshold' ) );
 	compress_enable();
